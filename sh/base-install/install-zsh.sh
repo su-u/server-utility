@@ -11,3 +11,4 @@ cd zsh-lastest
 make && make install
 
 echo /usr/local/bin/zsh >> /etc/shells
+cd
